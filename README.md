@@ -1,4 +1,4 @@
-# ProjectMovie Recession
+# Project Movie Recession
 
 ## Team Urutoraman
 
