@@ -1,6 +1,6 @@
-# Project_Movie Recession
+# ProjectMovie Recession
 
-# Team Urutoraman
+## Team Urutoraman
 
 MACS 60000: Computational Content Analysis
 
