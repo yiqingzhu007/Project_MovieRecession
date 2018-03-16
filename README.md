@@ -16,5 +16,6 @@ This repository contains the final course project for MACS 60000.
 
 **Yiqing Claudia Zhu** [yiqingz007](https://github.com/yiqingz007)
 
-We would like to express our sincere gratitude to **Prof. James Evans** and 
+We would like to express our sincere gratitude to the course instructor 
+**Prof. James Evans** and course TAs Reid McIlroy-Young and Linzhuo Li 
 for your teaching, guidance, and support throughout the quarter.
